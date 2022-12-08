@@ -9,6 +9,13 @@
 body {
   background: linear-gradient(170deg, rgba(1,47,67,1) 30%, rgba(0,15,22,1) 100%);
 background-repeat: no-repeat;
+color: #fafafa;
+}
+
+h1 {
+  font-family: 'Paytone One', sans-serif;
+  padding-left: 1rem;
+  margin-top: 3rem;
 }
 
 .image-grid {
