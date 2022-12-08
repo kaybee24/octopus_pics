@@ -10,6 +10,7 @@ body {
   background: linear-gradient(170deg, rgba(1,47,67,1) 30%, rgba(0,15,22,1) 100%);
 background-repeat: no-repeat;
 color: #fafafa;
+margin-bottom: 3rem;
 }
 
 h1 {
